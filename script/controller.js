@@ -16,9 +16,3 @@ function pickWord(element) {
     }
     updateView()
 }
-
-// function pickWord() {
-//     let text1 = 'bais'
-//     updateView();
-
-// }
